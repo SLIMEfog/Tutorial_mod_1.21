@@ -6,6 +6,20 @@
   "item.tutorialmod.starlight_ashes": "Starlight Ashes",
 
   "block.tutorialmod.pink_garnet_block": "Block of Pink Garnet",
+
+  "block.tutorialmod.pink_garnet_stairs": "Block of Pink Garnet Stairs",
+  "block.tutorialmod.pink_garnet_slab": "Slab of Pink Garnet",
+
+  "block.tutorialmod.pink_garnet_button": "Button of Pink Garnet",
+  "block.tutorialmod.pink_garnet_pressure_plate": "Pressure Plate of Pink Garnet",
+
+  "block.tutorialmod.pink_garnet_fence": "Fence of Pink Garnet",
+  "block.tutorialmod.pink_garnet_fence_gate": "Fence Gate of Pink Garnet",
+  "block.tutorialmod.pink_garnet_wall": "Wall of Pink Garnet",
+
+  "block.tutorialmod.pink_garnet_door": "Door of Pink Garnet",
+  "block.tutorialmod.pink_garnet_trapdoor": "Trapdoor of Pink Garnet",
+
   "block.tutorialmod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
 
   "itemgroup.tutorialmod.pink_garnet_items": "Pink Garnet Items",
