@@ -13,6 +13,7 @@ import net.minecraft.text.Text;
 import net.minecraft.util.ActionResult;
 import net.slimefog.tutorialmod.block.ModBlocks;
 import net.slimefog.tutorialmod.component.ModDataComponentTypes;
+import net.slimefog.tutorialmod.effect.ModEffects;
 import net.slimefog.tutorialmod.item.ModItemGroups;
 import net.slimefog.tutorialmod.item.ModItems;
 import net.slimefog.tutorialmod.sound.ModSounds;
@@ -31,6 +32,7 @@ public class TutorialMod implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModDataComponentTypes.registerDataComponentTypes();
 		ModSounds.registerSounds();
+		ModEffects.registerEffects();
 
 		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 
